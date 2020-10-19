@@ -50,14 +50,14 @@ function OrphanagesMap() {
             className="map-popup"
           >
             Paraiso da criança
-            <a href="">
+            <Link to='/orphanages/1'>
               <FiArrowRight size={20} color="#fff" />
-            </a>
+            </Link>
           </Popup>
         </Marker>
       </Map>
 
-      <Link to="" className="create-orphanage">
+      <Link to="/orphanages/create" className="create-orphanage">
         <FiPlus size={32} color="#FFF" />
       </Link>
     </div>
