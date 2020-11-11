@@ -54,7 +54,7 @@ This project was made with the following technologies:
 1. Clone the repo :
 
 ```sh
-  $ git clone https://github.com/sanderdsz/tindev.git
+  $ git clone https://github.com/sanderdsz/happy.git
 ```
 
 2. Execute the app:
